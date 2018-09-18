@@ -673,6 +673,17 @@ input[type="submit"]:hover {
 	color: #fff;
 }
 
+.github-icon {
+	padding: 10px 15px;
+	border: 1px solid rgb(149, 157, 161);
+	background-color: black;
+}
+
+.github-icon:hover {
+	background-color: transparent;
+	color: #fff;
+}
+
 /* ///////////////////////////////////////////////////////////////////// 
 //  10 - Footer
 /////////////////////////////////////////////////////////////////////*/
