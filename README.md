@@ -14,11 +14,11 @@ Experience in building applications using Angular, React.JS, Node.JS, Express.JS
 
 ## SKILLS
 
-  - Back End: Node.js Express.js 
-  - Front End: Angular ReactJS JavaScript Bootstrap HTML CSS 
-  - Databases: Mysql MongoDB ElasticSearch 
-  - Task & Project Management: Trello Zoho 
-  - Tools: VS Code Postman Swagger Gitlab Git GitHub NPM WebPack 
+  - Back End: Node.js, Express.js 
+  - Front End: Angular, ReactJS, JavaScript, Bootstrap, HTML, CSS 
+  - Databases: Mysql, MongoDB, ElasticSearch 
+  - Task & Project Management: Trello, Zoho 
+  - Tools: VS Code, Postman, Swagger, Gitlab, Git, GitHub, NPM, WebPack 
 
 
 
