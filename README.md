@@ -25,7 +25,7 @@ Experience in building applications using Angular, React.JS, Node.JS, Express.JS
 
 ## EDUCATION
 
-### [Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal](https://www.rgpv.ac.in) (2013-07 — 2017-06)
+### BE, Computer Science [Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal](https://www.rgpv.ac.in) (2013-07 — 2017-06)
 
 
 
